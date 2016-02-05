@@ -1,5 +1,5 @@
-
 'use strict';
+
 describe('Flow Control Basics', function() {
   
   describe('#basicTeenager', function() {
